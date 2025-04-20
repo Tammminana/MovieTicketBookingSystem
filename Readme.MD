@@ -1,15 +1,1 @@
-<hr></hr>
-Movie Booking System
-Overview
-This project is a movie booking system that allows users to book tickets for movies in various theatres. It includes features like managing movies, screenings, tickets, and orders.  <hr></hr>
-Class Diagram
-The class diagram below represents the structure of the system, including the relationships between classes.  <img src="path/to/class-diagram.png" alt="Class Diagram"></img>  <hr></hr>
-Use Case Diagram
-The use case diagram below shows the interaction between the user and the system.  <img src="path/to/use-case-diagram.png" alt="Use Case Diagram"></img>  <hr></hr>
-Key Components
-MovieBookingSystem: Manages movies, theatres, and bookings.
-ScreeningManager: Handles screenings and ticket management.
-Order: Represents a collection of tickets booked by a user.
-Ticket: Represents a single ticket for a screening.
-Seat: Represents a seat in a theatre room with a pricing strategy.
-PricingStrategy: Interface for different pricing strategies (e.g., Normal, Premium, VIP).
+//www.plantuml.com/plantuml/dpng/dLPTR-is37tthz2m5mzhW69FWr44TrsteK3R6zm6UnasGB6vL8Wi1PBS8HlstqTzK57aDaFQXyOMoSD3-f3s9-kuSTCecw_S2up030o30MiN0pSxl6cStZEdsKOxfqSs20Ez4rerTYVKdXi-CYaKkCCUc3RkHJTDBxcrx84VzEJOFmrZ2sQ1EtjxM6ahV7377ld-vbuvs8AvEhrvHjVbCaJrMawZiXqJoeK3e__ATndqQHetO2BaipD2RIE8n_YMRS7vcsFk5iElFCOtNN0BNdmO_7LByUGJaT3pLOkXnAEqAI9XaSSFKlfRs-BvWx3kXlWi41HPS2d-XjYWbi3_JNrxrAy2KjiCTmZUiPWa73dX99oS39Dtq-fUFGerEIWwj0LbiZEH-n90CMzrVfTml8MkoRRsMUSXltZyzv4o8--2d4vhlDLwXq7F1-jW99tq1a3XwIDN7EM0oDL9S1jzl4sz3M2nkIXXxaoshEDj5C86qwr5lmFNPipvupM0s10Ws_0_6Kab2R9DlxKo2DZ-h4q9GZ8WUzPcC9DEg1OoHhe_waaLd5ChIMclN4Y-aH3rbhrguL5b5V-gkdVgpbHyMJd5F5bqolHZ3ggkV1waWoTjHYvHa2JulH4z2lPMRE-W5sWZh9Kt851f8fJFPW2J05paMHD2Y_PUTvWARRhdqb-knGXKUz96_9bBOcwUDQTzgm-OgP-apwKTbs-KGI2VYH-QAuPKw0gfY6dyUB-4Sc3-v3qmR_V3vmo2RG_iveOTZSkbX___nd_HcWPNXcNMnQrForgFj9kh3PGjyzr1Mv6WShAiDf-HTa0NLqdErmLEuJQys7pxwcvw8wZX3HDn-2bQvm-Yu8_6c8j6twSx6-MPefKedzkwL7Ez_EejYM-_01PVVk7ogjuqos8kq3yROaon2alfBgkfADog2RXi3T6uL5nyyUVPNBw5g8AZP-fFFgYNTzrLP7MshvSl_VnSWPTVHjMKq60NyzdL0rj-YxmtIbM8TwXHY53QpCY99ebMgDTub93Y8vnmbBeFSZt9Qy4zeMCRZgZ5P7b84NChZHKjqPIOJ1HO5ncJLQUMe8uuzKTMrCYP9LeCMV4Daf_OwUUUlswhJy0pcxwKVO5Dt7wzNtrympV5ApN_BNxx-lhw---khwy6RbzW-7tn1wkbuFsQuWLpUJ3nPkoopCqdKCCqoly0
